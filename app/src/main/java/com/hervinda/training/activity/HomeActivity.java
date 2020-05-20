@@ -28,4 +28,6 @@ public class HomeActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navView, navController);
     }
 
+    public void setup() {
+    }
 }
